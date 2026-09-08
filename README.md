@@ -4,4 +4,4 @@
 
 ${\space}$
 
-${\color{#e0b577} sign \space my \space}$ ${\color{#e0b577}}$ [atab](https://kiribaku.atabook.org/)
+${\color{#928950} sign \space my \space}$ ${\color{#b44e33}}$ [atab](https://kiribaku.atabook.org/)
