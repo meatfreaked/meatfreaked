@@ -12,6 +12,6 @@ ${\space}$
 
 ${\space}$
 
-<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/2ae22423-d4d2-493f-8833-ec2e6be9f4d6" />
+<img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/2ae22423-d4d2-493f-8833-ec2e6be9f4d6" />
 
 
