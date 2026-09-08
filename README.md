@@ -4,4 +4,6 @@
 
 ${\space}$
 
-${\color{#928950} sign \space my \space}$ ${\color{#b44e33}}$ [atab](https://kiribaku.atabook.org/)
+${\color{#b44e33} sign \space}$ 
+${\color{#928950} my \space}$
+[atab](https://kiribaku.atabook.org/)
