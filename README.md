@@ -8,7 +8,9 @@ ${\color{#b44e33} sign \space}$
 ${\color{#928950} my \space}$
 [atab](https://kiribaku.atabook.org/)
 
+${\space}$
 
+${\space}$
 
-<img width="671" height="421" alt="image" src="https://github.com/user-attachments/assets/f71b0309-9053-40cd-b35c-a8a71dac382c" />
+<img width="570" height="320" alt="image" src="https://github.com/user-attachments/assets/f71b0309-9053-40cd-b35c-a8a71dac382c" />
 
