@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/71dcecd3-ef58-40d1-8e8c-512d7942cd7f" />
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/71dcecd3-ef58-40d1-8e8c-512d7942cd7f" />
 
 ${\space}$
 
