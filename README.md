@@ -8,7 +8,6 @@ ${\color{#b44e33} sign \space}$
 ${\color{#928950} my \space}$
 [atab](https://kiribaku.atabook.org/)
 
-${\space}$
 
 ${\space}$
 
